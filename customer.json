@@ -1,0 +1,911 @@
+[
+    {
+        "customer_id": 101,
+        "first_name": "Ravi",
+        "last_name": "Chopra",
+        "email": "user101@example.com",
+        "phone": "9827255641",
+        "city": "Chennai",
+        "registration_date": "2024-06-12"
+    },
+    {
+        "customer_id": 102,
+        "first_name": "Karan",
+        "last_name": "Verma",
+        "email": "user102@example.com",
+        "phone": "9882142529",
+        "city": "Jaipur",
+        "registration_date": "2022-06-10"
+    },
+    {
+        "customer_id": 103,
+        "first_name": "Aman",
+        "last_name": "Gupta",
+        "email": "user103@example.com",
+        "phone": "9888650906",
+        "city": "Mumbai",
+        "registration_date": "2024-05-10"
+    },
+    {
+        "customer_id": 104,
+        "first_name": "Ravi",
+        "last_name": "Singh",
+        "email": "user104@example.com",
+        "phone": "9815057178",
+        "city": "Hyderabad",
+        "registration_date": "2022-05-14"
+    },
+    {
+        "customer_id": 105,
+        "first_name": "Aman",
+        "last_name": "Verma",
+        "email": "user105@example.com",
+        "phone": "9841425414",
+        "city": "Jaipur",
+        "registration_date": "2022-06-29"
+    },
+    {
+        "customer_id": 106,
+        "first_name": "Neha",
+        "last_name": "Joshi",
+        "email": "user106@example.com",
+        "phone": "9818220198",
+        "city": "Bangalore",
+        "registration_date": "2022-09-19"
+    },
+    {
+        "customer_id": 107,
+        "first_name": "Karan",
+        "last_name": "Yadav",
+        "email": "user107@example.com",
+        "phone": "9876684691",
+        "city": "Bangalore",
+        "registration_date": "2024-08-20"
+    },
+    {
+        "customer_id": 108,
+        "first_name": "Neha",
+        "last_name": "Reddy",
+        "email": "user108@example.com",
+        "phone": "9887113452",
+        "city": "Delhi",
+        "registration_date": "2022-02-22"
+    },
+    {
+        "customer_id": 109,
+        "first_name": "Karan",
+        "last_name": "Yadav",
+        "email": "user109@example.com",
+        "phone": "9832034998",
+        "city": "Delhi",
+        "registration_date": "2022-03-24"
+    },
+    {
+        "customer_id": 110,
+        "first_name": "Rahul",
+        "last_name": "Yadav",
+        "email": "user110@example.com",
+        "phone": "9872806699",
+        "city": "Delhi",
+        "registration_date": "2023-06-02"
+    },
+    {
+        "customer_id": 111,
+        "first_name": "Neha",
+        "last_name": "Patel",
+        "email": "user111@example.com",
+        "phone": "9864271302",
+        "city": "Jaipur",
+        "registration_date": "2024-12-06"
+    },
+    {
+        "customer_id": 112,
+        "first_name": "Suresh",
+        "last_name": "Patel",
+        "email": "user112@example.com",
+        "phone": "9884081423",
+        "city": "Lucknow",
+        "registration_date": "2024-08-12"
+    },
+    {
+        "customer_id": 113,
+        "first_name": "Suresh",
+        "last_name": "Chopra",
+        "email": "user113@example.com",
+        "phone": "9820702984",
+        "city": "Kolkata",
+        "registration_date": "2023-06-14"
+    },
+    {
+        "customer_id": 114,
+        "first_name": "Ravi",
+        "last_name": "Singh",
+        "email": "user114@example.com",
+        "phone": "9815170859",
+        "city": "Mumbai",
+        "registration_date": "2022-02-09"
+    },
+    {
+        "customer_id": 115,
+        "first_name": "Deepa",
+        "last_name": "Joshi",
+        "email": "user115@example.com",
+        "phone": "9825493227",
+        "city": "Jaipur",
+        "registration_date": "2024-06-24"
+    },
+    {
+        "customer_id": 116,
+        "first_name": "Karan",
+        "last_name": "Khan",
+        "email": "user116@example.com",
+        "phone": "9871037770",
+        "city": "Kolkata",
+        "registration_date": "2023-12-03"
+    },
+    {
+        "customer_id": 117,
+        "first_name": "Suresh",
+        "last_name": "Yadav",
+        "email": "user117@example.com",
+        "phone": "9824941760",
+        "city": "Chennai",
+        "registration_date": "2022-12-12"
+    },
+    {
+        "customer_id": 118,
+        "first_name": "Deepa",
+        "last_name": "Chopra",
+        "email": "user118@example.com",
+        "phone": "9866761033",
+        "city": "Ahmedabad",
+        "registration_date": "2022-09-14"
+    },
+    {
+        "customer_id": 119,
+        "first_name": "Rahul",
+        "last_name": "Sharma",
+        "email": "user119@example.com",
+        "phone": "9893418866",
+        "city": "Chennai",
+        "registration_date": "2023-05-08"
+    },
+    {
+        "customer_id": 120,
+        "first_name": "Anjali",
+        "last_name": "Singh",
+        "email": "user120@example.com",
+        "phone": "9884065958",
+        "city": "Delhi",
+        "registration_date": "2024-05-01"
+    },
+    {
+        "customer_id": 121,
+        "first_name": "Aman",
+        "last_name": "Gupta",
+        "email": "user121@example.com",
+        "phone": "9865730191",
+        "city": "Delhi",
+        "registration_date": "2024-03-15"
+    },
+    {
+        "customer_id": 122,
+        "first_name": "Priya",
+        "last_name": "Sharma",
+        "email": "user122@example.com",
+        "phone": "9814295766",
+        "city": "Jaipur",
+        "registration_date": "2023-12-13"
+    },
+    {
+        "customer_id": 123,
+        "first_name": "Aman",
+        "last_name": "Yadav",
+        "email": "user123@example.com",
+        "phone": "9816237855",
+        "city": "Hyderabad",
+        "registration_date": "2022-01-18"
+    },
+    {
+        "customer_id": 124,
+        "first_name": "Ravi",
+        "last_name": "Patel",
+        "email": "user124@example.com",
+        "phone": "9866149793",
+        "city": "Chennai",
+        "registration_date": "2024-07-02"
+    },
+    {
+        "customer_id": 125,
+        "first_name": "Rahul",
+        "last_name": "Sharma",
+        "email": "user125@example.com",
+        "phone": "9834501775",
+        "city": "Pune",
+        "registration_date": "2023-03-23"
+    },
+    {
+        "customer_id": 126,
+        "first_name": "Priya",
+        "last_name": "Singh",
+        "email": "user126@example.com",
+        "phone": "9895012510",
+        "city": "Jaipur",
+        "registration_date": "2022-03-07"
+    },
+    {
+        "customer_id": 127,
+        "first_name": "Deepa",
+        "last_name": "Chopra",
+        "email": "user127@example.com",
+        "phone": "9839709555",
+        "city": "Ahmedabad",
+        "registration_date": "2024-02-12"
+    },
+    {
+        "customer_id": 128,
+        "first_name": "Priya",
+        "last_name": "Patel",
+        "email": "user128@example.com",
+        "phone": "9829951315",
+        "city": "Ahmedabad",
+        "registration_date": "2024-11-11"
+    },
+    {
+        "customer_id": 129,
+        "first_name": "Karan",
+        "last_name": "Yadav",
+        "email": "user129@example.com",
+        "phone": "9814182784",
+        "city": "Mumbai",
+        "registration_date": "2023-08-01"
+    },
+    {
+        "customer_id": 130,
+        "first_name": "Karan",
+        "last_name": "Patel",
+        "email": "user130@example.com",
+        "phone": "9826041099",
+        "city": "Mumbai",
+        "registration_date": "2023-07-01"
+    },
+    {
+        "customer_id": 131,
+        "first_name": "Rahul",
+        "last_name": "Joshi",
+        "email": "user131@example.com",
+        "phone": "9844132879",
+        "city": "Bangalore",
+        "registration_date": "2022-01-22"
+    },
+    {
+        "customer_id": 132,
+        "first_name": "Karan",
+        "last_name": "Singh",
+        "email": "user132@example.com",
+        "phone": "9844601165",
+        "city": "Hyderabad",
+        "registration_date": "2022-09-20"
+    },
+    {
+        "customer_id": 133,
+        "first_name": "Meena",
+        "last_name": "Sharma",
+        "email": "user133@example.com",
+        "phone": "9897152021",
+        "city": "Chennai",
+        "registration_date": "2022-06-20"
+    },
+    {
+        "customer_id": 134,
+        "first_name": "Ravi",
+        "last_name": "Yadav",
+        "email": "user134@example.com",
+        "phone": "9871308587",
+        "city": "Mumbai",
+        "registration_date": "2024-07-10"
+    },
+    {
+        "customer_id": 135,
+        "first_name": "Karan",
+        "last_name": "Khan",
+        "email": "user135@example.com",
+        "phone": "9837653469",
+        "city": "Ahmedabad",
+        "registration_date": "2023-07-29"
+    },
+    {
+        "customer_id": 136,
+        "first_name": "Suresh",
+        "last_name": "Patel",
+        "email": "user136@example.com",
+        "phone": "9850424921",
+        "city": "Lucknow",
+        "registration_date": "2022-07-14"
+    },
+    {
+        "customer_id": 137,
+        "first_name": "Deepa",
+        "last_name": "Singh",
+        "email": "user137@example.com",
+        "phone": "9874933288",
+        "city": "Delhi",
+        "registration_date": "2023-01-20"
+    },
+    {
+        "customer_id": 138,
+        "first_name": "Meena",
+        "last_name": "Singh",
+        "email": "user138@example.com",
+        "phone": "9865350722",
+        "city": "Chennai",
+        "registration_date": "2023-08-19"
+    },
+    {
+        "customer_id": 139,
+        "first_name": "Karan",
+        "last_name": "Verma",
+        "email": "user139@example.com",
+        "phone": "9864897423",
+        "city": "Delhi",
+        "registration_date": "2022-11-08"
+    },
+    {
+        "customer_id": 140,
+        "first_name": "Deepa",
+        "last_name": "Khan",
+        "email": "user140@example.com",
+        "phone": "9870912334",
+        "city": "Hyderabad",
+        "registration_date": "2022-03-26"
+    },
+    {
+        "customer_id": 141,
+        "first_name": "Suresh",
+        "last_name": "Gupta",
+        "email": "user141@example.com",
+        "phone": "9845862437",
+        "city": "Lucknow",
+        "registration_date": "2022-11-28"
+    },
+    {
+        "customer_id": 142,
+        "first_name": "Suresh",
+        "last_name": "Khan",
+        "email": "user142@example.com",
+        "phone": "9865286601",
+        "city": "Jaipur",
+        "registration_date": "2024-05-17"
+    },
+    {
+        "customer_id": 143,
+        "first_name": "Anjali",
+        "last_name": "Chopra",
+        "email": "user143@example.com",
+        "phone": "9867935107",
+        "city": "Chennai",
+        "registration_date": "2022-10-28"
+    },
+    {
+        "customer_id": 144,
+        "first_name": "Anjali",
+        "last_name": "Verma",
+        "email": "user144@example.com",
+        "phone": "9897688303",
+        "city": "Bangalore",
+        "registration_date": "2024-03-03"
+    },
+    {
+        "customer_id": 145,
+        "first_name": "Suresh",
+        "last_name": "Khan",
+        "email": "user145@example.com",
+        "phone": "9866962589",
+        "city": "Hyderabad",
+        "registration_date": "2023-08-28"
+    },
+    {
+        "customer_id": 146,
+        "first_name": "Karan",
+        "last_name": "Joshi",
+        "email": "user146@example.com",
+        "phone": "9877344459",
+        "city": "Ahmedabad",
+        "registration_date": "2023-12-13"
+    },
+    {
+        "customer_id": 147,
+        "first_name": "Karan",
+        "last_name": "Joshi",
+        "email": "user147@example.com",
+        "phone": "9821918415",
+        "city": "Delhi",
+        "registration_date": "2023-05-07"
+    },
+    {
+        "customer_id": 148,
+        "first_name": "Anjali",
+        "last_name": "Reddy",
+        "email": "user148@example.com",
+        "phone": "9865763813",
+        "city": "Chennai",
+        "registration_date": "2022-03-26"
+    },
+    {
+        "customer_id": 149,
+        "first_name": "Deepa",
+        "last_name": "Yadav",
+        "email": "user149@example.com",
+        "phone": "9819953451",
+        "city": "Hyderabad",
+        "registration_date": "2023-06-23"
+    },
+    {
+        "customer_id": 150,
+        "first_name": "Anjali",
+        "last_name": "Khan",
+        "email": "user150@example.com",
+        "phone": "9851375351",
+        "city": "Lucknow",
+        "registration_date": "2024-10-13"
+    },
+    {
+        "customer_id": 151,
+        "first_name": "Anjali",
+        "last_name": "Sharma",
+        "email": "user151@example.com",
+        "phone": "9873604965",
+        "city": "Pune",
+        "registration_date": "2023-07-05"
+    },
+    {
+        "customer_id": 152,
+        "first_name": "Rahul",
+        "last_name": "Sharma",
+        "email": "user152@example.com",
+        "phone": "9879732377",
+        "city": "Ahmedabad",
+        "registration_date": "2022-12-09"
+    },
+    {
+        "customer_id": 153,
+        "first_name": "Anjali",
+        "last_name": "Chopra",
+        "email": "user153@example.com",
+        "phone": "9889560962",
+        "city": "Chennai",
+        "registration_date": "2022-05-31"
+    },
+    {
+        "customer_id": 154,
+        "first_name": "Aman",
+        "last_name": "Patel",
+        "email": "user154@example.com",
+        "phone": "9872150648",
+        "city": "Ahmedabad",
+        "registration_date": "2024-03-13"
+    },
+    {
+        "customer_id": 155,
+        "first_name": "Aman",
+        "last_name": "Patel",
+        "email": "user155@example.com",
+        "phone": "9845611972",
+        "city": "Delhi",
+        "registration_date": "2024-06-10"
+    },
+    {
+        "customer_id": 156,
+        "first_name": "Priya",
+        "last_name": "Reddy",
+        "email": "user156@example.com",
+        "phone": "9855919958",
+        "city": "Jaipur",
+        "registration_date": "2024-01-05"
+    },
+    {
+        "customer_id": 157,
+        "first_name": "Suresh",
+        "last_name": "Joshi",
+        "email": "user157@example.com",
+        "phone": "9836027686",
+        "city": "Kolkata",
+        "registration_date": "2022-08-09"
+    },
+    {
+        "customer_id": 158,
+        "first_name": "Rahul",
+        "last_name": "Khan",
+        "email": "user158@example.com",
+        "phone": "9874057571",
+        "city": "Kolkata",
+        "registration_date": "2022-09-13"
+    },
+    {
+        "customer_id": 159,
+        "first_name": "Rahul",
+        "last_name": "Reddy",
+        "email": "user159@example.com",
+        "phone": "9820482385",
+        "city": "Delhi",
+        "registration_date": "2024-11-10"
+    },
+    {
+        "customer_id": 160,
+        "first_name": "Ravi",
+        "last_name": "Khan",
+        "email": "user160@example.com",
+        "phone": "9837595821",
+        "city": "Hyderabad",
+        "registration_date": "2023-10-14"
+    },
+    {
+        "customer_id": 161,
+        "first_name": "Karan",
+        "last_name": "Yadav",
+        "email": "user161@example.com",
+        "phone": "9834528403",
+        "city": "Lucknow",
+        "registration_date": "2024-10-03"
+    },
+    {
+        "customer_id": 162,
+        "first_name": "Priya",
+        "last_name": "Sharma",
+        "email": "user162@example.com",
+        "phone": "9878275227",
+        "city": "Ahmedabad",
+        "registration_date": "2024-02-06"
+    },
+    {
+        "customer_id": 163,
+        "first_name": "Neha",
+        "last_name": "Yadav",
+        "email": "user163@example.com",
+        "phone": "9842595320",
+        "city": "Ahmedabad",
+        "registration_date": "2023-08-13"
+    },
+    {
+        "customer_id": 164,
+        "first_name": "Suresh",
+        "last_name": "Reddy",
+        "email": "user164@example.com",
+        "phone": "9840725965",
+        "city": "Chennai",
+        "registration_date": "2024-04-28"
+    },
+    {
+        "customer_id": 165,
+        "first_name": "Anjali",
+        "last_name": "Verma",
+        "email": "user165@example.com",
+        "phone": "9849356407",
+        "city": "Jaipur",
+        "registration_date": "2022-04-07"
+    },
+    {
+        "customer_id": 166,
+        "first_name": "Aman",
+        "last_name": "Verma",
+        "email": "user166@example.com",
+        "phone": "9832305613",
+        "city": "Mumbai",
+        "registration_date": "2023-02-18"
+    },
+    {
+        "customer_id": 167,
+        "first_name": "Suresh",
+        "last_name": "Gupta",
+        "email": "user167@example.com",
+        "phone": "9883299185",
+        "city": "Delhi",
+        "registration_date": "2024-04-12"
+    },
+    {
+        "customer_id": 168,
+        "first_name": "Deepa",
+        "last_name": "Singh",
+        "email": "user168@example.com",
+        "phone": "9866864830",
+        "city": "Jaipur",
+        "registration_date": "2023-06-25"
+    },
+    {
+        "customer_id": 169,
+        "first_name": "Rahul",
+        "last_name": "Chopra",
+        "email": "user169@example.com",
+        "phone": "9896866745",
+        "city": "Delhi",
+        "registration_date": "2024-05-30"
+    },
+    {
+        "customer_id": 170,
+        "first_name": "Rahul",
+        "last_name": "Verma",
+        "email": "user170@example.com",
+        "phone": "9870620417",
+        "city": "Chennai",
+        "registration_date": "2022-11-12"
+    },
+    {
+        "customer_id": 171,
+        "first_name": "Priya",
+        "last_name": "Gupta",
+        "email": "user171@example.com",
+        "phone": "9839867442",
+        "city": "Delhi",
+        "registration_date": "2024-08-31"
+    },
+    {
+        "customer_id": 172,
+        "first_name": "Rahul",
+        "last_name": "Reddy",
+        "email": "user172@example.com",
+        "phone": "9823023664",
+        "city": "Hyderabad",
+        "registration_date": "2023-01-30"
+    },
+    {
+        "customer_id": 173,
+        "first_name": "Deepa",
+        "last_name": "Gupta",
+        "email": "user173@example.com",
+        "phone": "9858468382",
+        "city": "Hyderabad",
+        "registration_date": "2023-06-20"
+    },
+    {
+        "customer_id": 174,
+        "first_name": "Aman",
+        "last_name": "Joshi",
+        "email": "user174@example.com",
+        "phone": "9841586701",
+        "city": "Pune",
+        "registration_date": "2022-09-28"
+    },
+    {
+        "customer_id": 175,
+        "first_name": "Meena",
+        "last_name": "Gupta",
+        "email": "user175@example.com",
+        "phone": "9867283504",
+        "city": "Lucknow",
+        "registration_date": "2022-09-18"
+    },
+    {
+        "customer_id": 176,
+        "first_name": "Deepa",
+        "last_name": "Gupta",
+        "email": "user176@example.com",
+        "phone": "9867032554",
+        "city": "Kolkata",
+        "registration_date": "2023-09-10"
+    },
+    {
+        "customer_id": 177,
+        "first_name": "Priya",
+        "last_name": "Sharma",
+        "email": "user177@example.com",
+        "phone": "9833659808",
+        "city": "Mumbai",
+        "registration_date": "2022-12-02"
+    },
+    {
+        "customer_id": 178,
+        "first_name": "Ravi",
+        "last_name": "Singh",
+        "email": "user178@example.com",
+        "phone": "9816122858",
+        "city": "Mumbai",
+        "registration_date": "2022-11-06"
+    },
+    {
+        "customer_id": 179,
+        "first_name": "Meena",
+        "last_name": "Verma",
+        "email": "user179@example.com",
+        "phone": "9812430980",
+        "city": "Hyderabad",
+        "registration_date": "2023-12-27"
+    },
+    {
+        "customer_id": 180,
+        "first_name": "Ravi",
+        "last_name": "Singh",
+        "email": "user180@example.com",
+        "phone": "9812480259",
+        "city": "Chennai",
+        "registration_date": "2023-07-15"
+    },
+    {
+        "customer_id": 181,
+        "first_name": "Ravi",
+        "last_name": "Chopra",
+        "email": "user181@example.com",
+        "phone": "9843594829",
+        "city": "Lucknow",
+        "registration_date": "2023-12-11"
+    },
+    {
+        "customer_id": 182,
+        "first_name": "Meena",
+        "last_name": "Reddy",
+        "email": "user182@example.com",
+        "phone": "9819770664",
+        "city": "Lucknow",
+        "registration_date": "2023-08-15"
+    },
+    {
+        "customer_id": 183,
+        "first_name": "Priya",
+        "last_name": "Verma",
+        "email": "user183@example.com",
+        "phone": "9869273924",
+        "city": "Ahmedabad",
+        "registration_date": "2024-04-10"
+    },
+    {
+        "customer_id": 184,
+        "first_name": "Ravi",
+        "last_name": "Chopra",
+        "email": "user184@example.com",
+        "phone": "9894548726",
+        "city": "Jaipur",
+        "registration_date": "2024-04-30"
+    },
+    {
+        "customer_id": 185,
+        "first_name": "Ravi",
+        "last_name": "Sharma",
+        "email": "user185@example.com",
+        "phone": "9879799757",
+        "city": "Delhi",
+        "registration_date": "2022-12-20"
+    },
+    {
+        "customer_id": 186,
+        "first_name": "Suresh",
+        "last_name": "Verma",
+        "email": "user186@example.com",
+        "phone": "9864493088",
+        "city": "Delhi",
+        "registration_date": "2022-07-27"
+    },
+    {
+        "customer_id": 187,
+        "first_name": "Anjali",
+        "last_name": "Verma",
+        "email": "user187@example.com",
+        "phone": "9819837877",
+        "city": "Bangalore",
+        "registration_date": "2024-01-13"
+    },
+    {
+        "customer_id": 188,
+        "first_name": "Suresh",
+        "last_name": "Khan",
+        "email": "user188@example.com",
+        "phone": "9876595285",
+        "city": "Mumbai",
+        "registration_date": "2024-06-28"
+    },
+    {
+        "customer_id": 189,
+        "first_name": "Suresh",
+        "last_name": "Sharma",
+        "email": "user189@example.com",
+        "phone": "9889864547",
+        "city": "Bangalore",
+        "registration_date": "2022-04-27"
+    },
+    {
+        "customer_id": 190,
+        "first_name": "Ravi",
+        "last_name": "Reddy",
+        "email": "user190@example.com",
+        "phone": "9878053535",
+        "city": "Lucknow",
+        "registration_date": "2024-08-14"
+    },
+    {
+        "customer_id": 191,
+        "first_name": "Rahul",
+        "last_name": "Chopra",
+        "email": "user191@example.com",
+        "phone": "9822765952",
+        "city": "Jaipur",
+        "registration_date": "2024-12-02"
+    },
+    {
+        "customer_id": 192,
+        "first_name": "Ravi",
+        "last_name": "Gupta",
+        "email": "user192@example.com",
+        "phone": "9869926612",
+        "city": "Jaipur",
+        "registration_date": "2024-07-21"
+    },
+    {
+        "customer_id": 193,
+        "first_name": "Meena",
+        "last_name": "Reddy",
+        "email": "user193@example.com",
+        "phone": "9875155909",
+        "city": "Mumbai",
+        "registration_date": "2022-06-29"
+    },
+    {
+        "customer_id": 194,
+        "first_name": "Meena",
+        "last_name": "Gupta",
+        "email": "user194@example.com",
+        "phone": "9894479769",
+        "city": "Delhi",
+        "registration_date": "2024-02-11"
+    },
+    {
+        "customer_id": 195,
+        "first_name": "Suresh",
+        "last_name": "Khan",
+        "email": "user195@example.com",
+        "phone": "9819272190",
+        "city": "Lucknow",
+        "registration_date": "2023-12-19"
+    },
+    {
+        "customer_id": 196,
+        "first_name": "Priya",
+        "last_name": "Gupta",
+        "email": "user196@example.com",
+        "phone": "9847487206",
+        "city": "Ahmedabad",
+        "registration_date": "2024-06-29"
+    },
+    {
+        "customer_id": 197,
+        "first_name": "Aman",
+        "last_name": "Gupta",
+        "email": "user197@example.com",
+        "phone": "9817013648",
+        "city": "Pune",
+        "registration_date": "2022-01-11"
+    },
+    {
+        "customer_id": 198,
+        "first_name": "Deepa",
+        "last_name": "Reddy",
+        "email": "user198@example.com",
+        "phone": "9867072320",
+        "city": "Chennai",
+        "registration_date": "2022-07-27"
+    },
+    {
+        "customer_id": 199,
+        "first_name": "Neha",
+        "last_name": "Sharma",
+        "email": "user199@example.com",
+        "phone": "9854336251",
+        "city": "Mumbai",
+        "registration_date": "2024-02-02"
+    },
+    {
+        "customer_id": 200,
+        "first_name": "Aman",
+        "last_name": "Khan",
+        "email": "user200@example.com",
+        "phone": "9826301015",
+        "city": "Bangalore",
+        "registration_date": "2024-09-01"
+    },
+    {
+        "customer_id": 201,
+        "first_name": "Neha",
+        "last_name": "Gupta",
+        "email": "user201@example.com",
+        "phone": "9842685273",
+        "city": "Chennai",
+        "registration_date": "2023-05-22"
+    }
+]
